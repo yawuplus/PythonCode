@@ -10,9 +10,9 @@ import os
 # 起始url
 url = 'https://weibo.cn/'
 # 输入新浪微博手机号或邮箱
-username = '15716302402'
+username = ''
 # 输入新浪微博账号密码
-pwd = 'jyw83139200..'
+pwd = ''
 user_id = 'dongxuan'
 # options = webdriver.ChromeOptions()
 # 进入浏览器设置
